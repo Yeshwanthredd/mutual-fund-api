@@ -12,7 +12,7 @@ A FastAPI-based backend application for a mutual fund brokerage firm. This appli
 - Python 3.9+
 - SQLite (included with Python, no separate installation needed)
 - Git (for cloning the repository)
-- A RapidAPI key from [latest-mutual-fund-nav API](https://rapidapi.com/marketplace/api/latest-mutual-fund-nav)
+- A RapidAPI key from [mutual-fund API](https://rapidapi.com/suneetk92/api/latest-mutual-fund-nav)
 
 ## Setup Instructions
 

@@ -18,5 +18,5 @@ A FastAPI-based backend application for a mutual fund brokerage firm. This appli
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mutual-fund-api.git
+git clone https://github.com/Yeshwanthredd/mutual-fund-api.git
 cd mutual-fund-api
